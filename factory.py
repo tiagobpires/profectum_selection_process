@@ -12,7 +12,7 @@ from error_handlers import (
 api = SpecTree(
     "flask",
     mode="strict",
-    title="Desafio Profectum API",
+    title="Profectum API",
     version="v.1.0",
     path="docs",
 )
