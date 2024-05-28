@@ -31,6 +31,15 @@ $ pip install -r requirements.txt
 
 ### Usage
 
+Create a `.env` file and fill it with the information:
+
+```sh
+PIPE_ID=
+PIPEFY_TOKEN=
+```
+
+To run, execute:
+
 ```sh
 python main.py
 ```
